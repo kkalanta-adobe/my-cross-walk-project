@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p93652-e979453.adobeaemcloud.com/bin/franklin.delivery/kkalanta-adobe/my-cross-walk-project/main"
+    url: "https://author-p93652-e1432934.adobeaemcloud.com/bin/franklin.delivery/kkalanta-adobe/my-cross-walk-project/main"
     type: "markup"
     suffix: ".html"
