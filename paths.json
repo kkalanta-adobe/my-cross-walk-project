@@ -1,5 +1,9 @@
 {
   "mappings": [
-    "/content/my-cross-walkproject/:/"
+    "/content/my-cross-walk-project/:/",
+    "/content/my-cross-walk-project/configuration:/.helix/config.json"
+  ],
+  "includes": [
+    "/content/my-cross-walk-project/"
   ]
 }
